@@ -1,0 +1,14 @@
+Messaging Framework
+
+
+Target Audience:	DevSecOps engineers, security champions, CI/CD pipeline managers, software developers in mid-to-large enterprises
+Primary Problem:	Integrating security testing into fast-moving development pipelines without slowing down release cycles
+Primary Message:	“Automate security at the speed of DevOps. ZAP integrates seamlessly into your CI/CD pipeline, enabling early, continuous, and 				scalable web app security.”
+Supporting Messages:	- Seamless integration with Jenkins, GitHub Actions, GitLab CI/CD, and more
+			- Catch OWASP Top 10 issues automatically
+			- Customize scans to your workflows
+			- Get real-time actionable feedback for developers
+			- Open-source power, enterprise-ready features
+Emotional Appeal	“Empower your developers to ship secure code confidently — without tradeoffs.”
+Tone			Technical, empowering, trustworthy, developer-first
+Call-to-Action (CTA)	“Start scanning your apps in minutes” / “Integrate ZAP into your CI/CD today”

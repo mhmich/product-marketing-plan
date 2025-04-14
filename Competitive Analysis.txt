@@ -1,0 +1,18 @@
+Competitive Analysis
+
+Direct Competitors
+
+Tool			Strengths										Weaknesses Compared to ZAP
+Burp Suite (Pro)	Advanced testing tools, strong manual pen-testing support, widely respected in infosec	Expensive licensing, not optimized for automated CI/CD integration
+OWASP ZAP (Baseline)	Community-driven, free, great for educational and SMB use				Without guidance or automation, harder to scale in enterprise without Checkmarx’s support offering
+Netsparker (Invicti)	Powerful scanning engine, good UI, decent automation					Expensive, closed-source, limited community visibility
+AppSpider (Rapid7)	CI/CD integration, good coverage							Pricey, less popular with developers, heavier agent setup
+Acunetix		Great GUI, fast scanning								Less flexible/customizable, not open-source, limited community contribution
+
+
+Indirect Competitors
+
+Tool			Strengths										Why ZAP is Still Needed
+Checkmarx SAST / SCA	Excellent for static code and open-source analysis					Doesn’t test live app behavior or runtime vulnerabilities like XSS or auth issues
+SonarQube		Dev-focused, good static analysis							Lacks dynamic testing capabilities—ZAP catches what static tools miss
+Contrast Security (IAST)Real-time feedback, deeper code-instrumented testing				More intrusive and complex setup, expensive, and less community-driven

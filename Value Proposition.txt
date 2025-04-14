@@ -1,0 +1,13 @@
+Value Proposition
+
+For DevSecOps teams at mid-to-large enterprises, ZAP by Checkmarx is the most trusted open-source DAST tool that seamlessly integrates into your development pipeline, enabling automated, continuous, and cost-effective web application security without slowing you down.
+
+
+Why ZAP stands out:
+
+Pillar			Benefit										Proof/Support
+Automation-Ready	Automatically scan for vulnerabilities at every stage of development		ZAP CLI and APIs enable full scripting and integration into CI/CD workflows
+Developer-Friendly	Delivers real-time, developer-consumable feedback				Supports REST APIs, easy-to-read reports, integration into GitHub PRs
+Enterprise-Scalable	Scales across large teams and multiple apps without expensive licensing		Open-source core, optional enterprise support from Checkmarx
+Customizable		Tailor scans, scripts, and alerts to suit your app stack and deployment style	Plugin ecosystem, support for scripts and dynamic testing profiles
+Cost-Efficient		Save on licensing costs while maintaining strong security posture		Open-source with no license fees; enterprise support optional
